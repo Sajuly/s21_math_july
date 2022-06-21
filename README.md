@@ -1,7 +1,7 @@
 # s21_math_july
 
-1 int abs(int x) //вычисляет абсолютное значение целого числа
-2 long double acos(double x) //вычисляет арккосинус
+1 int abs(int x) //вычисляет абсолютное значение целого числа<br>
+2 long double acos(double x) //вычисляет арккосинус<br>
 3 long double asin(double x) //вычисляет арксинус
 4 long double atan(double x) //вычисляет арктангенс
 5 long double ceil(double x) //возвращает ближайшее целое число, не меньшее заданного значения
